@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30394#Dave-Porter-and-His-Double--Or-The-Disapperarance-of-the-Basswood-Fortune
 gutenberg_issued: '2009-11-02'
 gutenberg_type: Text
 identifiers:
